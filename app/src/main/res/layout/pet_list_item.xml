@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/menu_backgtound"
+    android:layout_marginTop="4dp">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/pet_image_list_item"
+        android:src="@drawable/image_holder"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+       >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pet_name_list_item"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#2B3D4D"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="pet name"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:id="@+id/pet_bread_list_item"
+            tools:text="pet bread"
+            android:fontFamily="sans-serif"
+            android:textColor="#AEB6BD"
+            android:textAppearance="?android:textAppearanceSmall"/>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pet_gender_list_item"
+            tools:text="pet gender"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#2B3D4D"
+            android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pet_weight_list_item"
+        tools:text="pet weight"
+        android:layout_marginStart="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#2B3D4D"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kg"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#2B3D4D"
+        android:textAppearance="?android:textAppearanceSmall"/>
+
+</LinearLayout>
+
+
+"</LinearLayout>
+
+
+</LinearLayout>
