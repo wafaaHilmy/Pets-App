@@ -6,8 +6,11 @@ Used in a Udacity course in the Android Basics Nanodegree by Google.
 
 Screenshots
 -----------
-![Screenshot1](petsApp/screenshot1.png)
-![Screenshot1](screenshots/screen_1.png)
+![Screenshot1](petsApp/Screenshot1.jpg) 
+![Screenshot1](petsApp/Screenshot2.jpg)
+![Screenshot1](petsApp/Screenshot3.jpg)
+![Screenshot1](petsApp/Screenshot4.jpg)
+![Screenshot1](petsApp/Screenshot5.jpg)
 
 
 License
