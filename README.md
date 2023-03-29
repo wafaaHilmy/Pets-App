@@ -1,8 +1,11 @@
 Pets App
 ===================================
 
+An Android Application for pets shelter which owner can display, insert ,update and delete data of shelter's pets;
+
 This app displays a list of pets and their related data that the user inputs.
-Used in a Udacity course in the Android Basics Nanodegree by Google.
+
+the starter code is encluded from  a Udacity course in the Android Basics Nanodegree by Google.
 
 Screenshots
 -----------
